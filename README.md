@@ -5,7 +5,6 @@
 - 🎓 &nbsp; Graduated from Wentworth Institute of Technology with a BS in Computer Science (August 2021).
 - 💼 &nbsp; Working as an Information Security Engineer at Charles River Laboratories.
 - 🌱 &nbsp; Learning more about Cyber Security Automation, Cloud Architecture, and Systems Design.
-- ✍️ &nbsp; Pursuing these certifications: Certified in Cybersecurtiy (ISC2) and Terraform Associate
 
 <h3>🛠 Tools I've Worked With </h3>
 
